@@ -24,7 +24,7 @@ I enjoy designing efficient architectures, experimenting with models, and coding
 
 ### 🧑‍💻 Languages
 Java • Python • JavaScript  
-SQL • Bash • HTML/CSS  
+SQL • Bash • HTML/CSS  • Go Lang
 
 ### ⚙️ Frameworks & Tools
 Flask • FastAPI • scikit-learn • Pandas • NumPy  
