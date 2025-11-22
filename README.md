@@ -31,7 +31,7 @@ Flask • FastAPI • scikit-learn • Pandas • NumPy
 NetBeans • VSCode • Git • Swing / AWT  
 
 ### 🗄️ Databases
-MySQL • PostgreSQL • SQLite  
+MySQL • PostgreSQL • MongoDB
 
 ---
 
@@ -44,6 +44,3 @@ MySQL • PostgreSQL • SQLite
 ## 🔗 Connect With Me
 - 💼 GitHub: **[github.com/Clydeew](https://github.com/Clydeew)**
 
----
-
-### ✨ “Train. Test. Split. Repeat.”
