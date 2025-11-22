@@ -46,4 +46,4 @@ MySQL • PostgreSQL • SQLite
 
 ---
 
-### ✨ “Build. Break. Learn. Repeat.”
+### ✨ “Train. Test. Split. Repeat.”
