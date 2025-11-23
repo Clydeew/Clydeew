@@ -42,5 +42,8 @@ MySQL • PostgreSQL • MongoDB
 ---
 
 ## 🔗 Connect With Me
-- 💼 GitHub: **[github.com/Clydeew](https://github.com/Clydeew)**
+- 🧑‍💻 GitHub: **[github.com/Clydeew](https://github.com/Clydeew)**
+- 📧 Email: **[ahmaddzaki195@gmail.com](ahmaddzaki195@gmail.com)**
+- 💼 LinkedIn: **[Ahmad Dzaki Hakiim Fadhlurrohman](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)**
+- 📸 Instagram: **[@c.ahmad_dzhf](https://www.instagram.com/c.ahmad_dzhf/)**
 
