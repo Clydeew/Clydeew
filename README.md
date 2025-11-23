@@ -3,15 +3,20 @@
 I'm an Informatics Engineering student interested in **Machine Learning**, **Backend Development**, and building real-world systems.  
 I enjoy designing efficient architectures, experimenting with models, and coding things that actually *work*.
 
----
+```
+        .        *       .       *
+   *        .       *        .
+        *      .       *       .       *
+  .       🌙        .       *        .
+       *       .        *       .      *
+  *       .       *        .       *   
+        .        *       .       *
+   *        .       *        .
+        *      .       *       .       *
+  .       *       .      *       .      
+       *       .        *       .      *
 
-## 🚀 What I'm Working On
-- 🤖 Building ML models (classification, clustering, regression)
-- 🗄️ Exploring backend development with Java, Python, and REST APIs
-- 💬 Developing a LAN chat app (TCP + UDP + GUI)
-- 🧪 Java OOP projects & system simulations
-
----
+```
 
 ## 🧠 Interests
 - Machine Learning • Deep Learning • Data Wrangling  
