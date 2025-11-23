@@ -22,13 +22,25 @@ I enjoy designing efficient architectures, experimenting with models, and coding
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages
-Java • Python • JavaScript  
-SQL • Bash • HTML/CSS  • Go Lang
+## 🧑‍💻 Languages
 
-### ⚙️ Frameworks & Tools
-Flask • FastAPI • scikit-learn • Pandas • NumPy  
-NetBeans • VSCode • Git • Swing / AWT  
+Java • Python • JavaScript
+SQL • Bash • HTML/CSS • Go 
+
+## ⚙️ Frameworks & Tools
+
+Flask • FastAPI • Swing / AWT
+NetBeans • VSCode • Git
+
+## 🤖 Machine Learning & Data Science
+
+scikit-learn • Pandas • NumPy • SciPy
+Matplotlib • Seaborn • Jupyter Notebook
+
+## 🧠 Deep Learning
+
+TensorFlow • Keras • PyTorch
+OpenCV • Hugging Face Transformers
 
 ### 🗄️ Databases
 MySQL • PostgreSQL • MongoDB
