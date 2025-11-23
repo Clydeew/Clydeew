@@ -3,23 +3,6 @@
 I'm an Informatics Engineering student interested in **Machine Learning**, **Backend Development**, and building real-world systems.  
 I enjoy designing efficient architectures, experimenting with models, and coding things that actually *work*.
 
-```
-                                                                           |\                     /)
-                                                                         /\_\\__               (_//
-                                                                        |   `>\-`     _._       //`)
-                                                                         \ /` \\  _.-`:::`-._  //
-                                                                          `    \|`    :::    `|/
-                                                                                |     :::     |
-                                                                                |.....:::.....|
-                                                                                |:::::::::::::|
-                                                                                |     :::     |
-                                                                                \     :::     /
-                                                                                 \    :::    /
-                                                                                  `-. ::: .-'
-                                                                                   //`:::`\\
-                                                                                  //   '   \\
-                                                                                 |/         \\
-```
 
 ## 🧠 Interests
 - Machine Learning • Deep Learning • Data Wrangling  
