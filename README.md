@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clyde!
+# 👋 Hi, I'm Ahmad Dzaki Hakiim Fadhlurrohman, usually go by Clyde!
 
 I'm an Informatics Engineering student interested in **Machine Learning**, **Backend Development**, and building real-world systems.  
 I enjoy designing efficient architectures, experimenting with models, and coding things that actually *work*.
