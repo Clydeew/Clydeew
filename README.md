@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=hey,%20i'm%20Clyde.&fontSize=50&fontAlignY=38&desc=informatics%20student%20%C2%B7%20ml%20engineer%20%C2%B7%20backend%20builder&descSize=18&descAlignY=58&fontColor=ffffff"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=hey%2C+i'm+Clyde+%F0%9F%91%BE;I+build+things+that+think.)](https://git.io/typing-svg)
 
-</div>
+**`informatics student · ml engineer · backend builder`**
 
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6e40c9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)
 [![Email](https://img.shields.io/badge/-Email-e05cc0?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmaddzaki195@gmail.com)
@@ -44,7 +42,7 @@ Building things that outlast the hype.
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
 
 </td>
 </tr>
@@ -155,9 +153,9 @@ Building things that outlast the hype.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 
 </div>
 
@@ -171,9 +169,5 @@ Building things that outlast the hype.
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Clydeew&color=a78bfa&style=flat-square&label=visitors)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
