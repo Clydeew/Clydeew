@@ -1,17 +1,8 @@
 <div align="center">
 
-```
- ██████╗██╗  ██╗   ██╗██████╗ ███████╗
-██╔════╝██║  ╚██╗ ██╔╝██╔══██╗██╔════╝
-██║     ██║   ╚████╔╝ ██║  ██║█████╗  
-██║     ██║    ╚██╔╝  ██║  ██║██╔══╝  
-╚██████╗███████╗██║   ██████╔╝███████╗
- ╚═════╝╚══════╝╚═╝   ╚═════╝ ╚══════╝
-```
+# Ahmad Dzaki Hakiim Fadhlurrohman
 
-# Ahmad Dzaki Hakiim · `Clyde`
-
-**`Informatics Engineering Student · ML Engineer · Backend Developer`**
+**Informatics Engineering Student · Machine Learning · Backend Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clydeew)
@@ -22,39 +13,27 @@
 
 ---
 
-## `> whoami`
+## About Me
 
-```python
-class Clyde:
-    name       = "Ahmad Dzaki Hakiim Fadhlurrohman"
-    alias      = "Clyde"
-    role       = "Informatics Engineering Student"
-    location   = "Indonesia 🇮🇩"
-    focus      = ["Machine Learning", "Backend Development", "Real-World Systems"]
-    philosophy = "Build things that actually work."
-```
+I'm **Clyde** — an Informatics Engineering student based in Indonesia with a strong interest in building intelligent, production-ready systems. My work sits at the intersection of **machine learning**, **backend engineering**, and **data** — from designing efficient APIs and databases to training and deploying models that solve real problems.
 
-> I'm passionate about designing **efficient architectures**, experimenting with **ML models**, and shipping systems that solve real problems. I sit at the intersection of data, models, and infrastructure — comfortable from the database layer up to the trained model.
+I value clean architecture, reproducible experiments, and software that's built to last. Currently deepening my expertise in LLMs, Reinforcement Learning, and MLOps.
 
 ---
 
-## `> currently_learning.exe`
+## Currently Exploring
 
-```bash
-$ loading modules...
-```
-
-| Module | Status | Notes |
-|--------|--------|-------|
-| 🤖 **LLMs & Prompt Engineering** | `[██████████░░]  85%` | Fine-tuning, RAG pipelines, agent workflows |
-| 🎮 **Reinforcement Learning** | `[███████░░░░░]  60%` | Policy gradients, Q-learning, environments |
-| ⚙️ **MLOps** | `[█████░░░░░░░]  45%` | Model serving, experiment tracking, CI/CD for ML |
+| Area | Focus |
+|------|-------|
+| 🤖 **LLMs & Prompt Engineering** | Fine-tuning, RAG pipelines, agent workflows |
+| 🎮 **Reinforcement Learning** | Policy gradients, Q-learning, environment design |
+| ⚙️ **MLOps** | Model serving, experiment tracking, ML CI/CD |
 
 ---
 
-## `> tech_stack --verbose`
+## Technical Skills
 
-### 🧑‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -63,77 +42,66 @@ $ loading modules...
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### ⚙️ Frameworks & Backend
+### Frameworks & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🧠 Deep Learning
+### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## `> ls projects/`
+## Projects
 
-> 🚧 *Showcase projects — fill in your own links and descriptions below!*
+> Fill in your own project names, descriptions, and links below.
 
-### 🧠 ML / AI Projects
+### 🧠 ML / AI
 
-```
-📁 project-name/
-├── 📄 What it does: [Brief description of the model/system]
-├── 🛠️ Stack: Python · PyTorch · FastAPI · [others]
-├── 📊 Results: [Key metric or achievement]
-└── 🔗 Links: [GitHub Repo] · [Live Demo / Report]
-```
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Project Name** | Brief description of what it does and the problem it solves | Python · PyTorch · FastAPI | [Repo](#) · [Demo](#) |
+| **Project Name** | Brief description of what it does and the problem it solves | Python · scikit-learn · Flask | [Repo](#) · [Report](#) |
 
 ### 📊 Data Science / Analysis
 
-```
-📁 project-name/
-├── 📄 What it does: [Brief description of the analysis/insight]
-├── 🛠️ Stack: Python · Pandas · Seaborn · Jupyter
-├── 📊 Results: [Key finding or visualization]
-└── 🔗 Links: [GitHub Repo] · [Notebook / Dashboard]
-```
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Project Name** | Brief description of the analysis and key insight | Pandas · Seaborn · Jupyter | [Repo](#) · [Notebook](#) |
 
-### 🌐 Full-Stack Apps
+### 🌐 Full-Stack Applications
 
-```
-📁 project-name/
-├── 📄 What it does: [Brief description of the application]
-├── 🛠️ Stack: FastAPI · PostgreSQL · JavaScript · [others]
-├── ✨ Features: [Highlight 1–2 standout features]
-└── 🔗 Links: [GitHub Repo] · [Live Demo]
-```
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Project Name** | Brief description of the app and its core features | FastAPI · PostgreSQL · JavaScript | [Repo](#) · [Live](#) |
 
 ---
 
-## `> github --stats`
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&theme=default&hide_border=true&title_color=0A66C2)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Clydeew&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA)
+![GitHub Streak](https://streak-stats.demolab.com?user=Clydeew&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)
 
 </div>
 
@@ -141,12 +109,8 @@ $ loading modules...
 
 <div align="center">
 
-```
-"Design the architecture. Train the model. Ship the system."
-```
+*Designing efficient systems · Training models that generalize · Shipping things that work.*
 
-**`// Thanks for visiting — let's build something real.`**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Clydeew&color=00FFAA&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Clydeew&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
