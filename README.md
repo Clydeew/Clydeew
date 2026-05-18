@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=hey,%20i'm%20Clyde.&fontSize=50&fontAlignY=38&desc=informatics%20student%20%C2%B7%20ml%20engineer%20%C2%B7%20backend%20builder&descSize=18&descAlignY=58&fontColor=ffffff"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=hey%2C+i'm+Clyde+%F0%9F%91%BE;I+build+things+that+think.)](https://git.io/typing-svg)
 
+**`informatics student · ml engineer · backend builder`**
 </div>
 
 <br/>
