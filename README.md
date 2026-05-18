@@ -44,8 +44,7 @@ Building things that outlast the hype.
 
 </td>
 <td valign="center" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clydeew&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clydeew&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clydeew&theme=tokyonight" width="100%"/>
 </td>
 </tr>
 </table>
@@ -151,7 +150,9 @@ Building things that outlast the hype.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clydeew&theme=tokyonight" width="100%"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="30%"/>
+<img src="https://streak-stats.demolab.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clydeew&theme=tokyonight" width="32%"/>
 
 </div>
 
