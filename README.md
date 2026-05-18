@@ -2,11 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=hey%2C+i'm+Clyde+%F0%9F%91%BE;I+build+things+that+think.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=hey,%20i'm%20Clyde.&fontSize=50&fontAlignY=38&desc=informatics%20student%20%C2%B7%20ml%20engineer%20%C2%B7%20backend%20builder&descSize=18&descAlignY=58&fontColor=ffffff"/>
 
-**`informatics student · ml engineer · backend builder`**
+</div>
 
 <br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6e40c9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)
 [![Email](https://img.shields.io/badge/-Email-e05cc0?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmaddzaki195@gmail.com)
@@ -104,44 +106,38 @@ Building things that outlast the hype.
 
 ## ✦ &nbsp;selected projects
 
-> *swap the placeholders — these are your cards to play*
-
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 &nbsp;ML / AI
+### 🌐 &nbsp;Full-Stack
 
-**`Project Name`** &nbsp;·&nbsp; [repo](#) [demo](#)
-> What problem does it solve? What makes it interesting?
+**`OceanBridge`** &nbsp;🌊&nbsp; [repo](#)
 
-`Python` `PyTorch` `FastAPI`
+> A web-based e-commerce platform connecting local fishermen directly with consumers — built to digitalize Indonesia's blue economy. Features a modern glassmorphism UI, a seller dashboard, admin panel, and smart dynamic navigation.
+
+`Laravel 11` `Tailwind CSS` `Alpine.js` `Vite` `PHP`
 
 ---
 
-**`Project Name`** &nbsp;·&nbsp; [repo](#) [report](#)
-> One-liner on the model, dataset, or result that matters.
+### 🧠 &nbsp;ML / AI
 
-`scikit-learn` `Pandas` `Flask`
+**`Automated Dental Age Estimation`** &nbsp;🦷&nbsp; [repo](#)
+
+> Two-stage deep learning pipeline for forensic dental age estimation. YOLOv8 detects and crops individual teeth from panoramic X-rays; EfficientNetB0 then regresses chronological age. Achieved **MAE of 1.97 years** on ages 9–19.
+
+`Python` `YOLOv8` `EfficientNet` `TensorFlow` `Keras` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 &nbsp;Data Science
 
-**`Project Name`** &nbsp;·&nbsp; [repo](#) [notebook](#)
-> What insight did the data reveal?
+**`England & Wales Housing Price Drivers`** &nbsp;🏠&nbsp; [repo](#)
 
-`Pandas` `Seaborn` `Jupyter`
+> Analyzed residential property price drivers using HM Land Registry, ONS population, and geospatial boundary data. Built and compared 5 regression models — XGBoost achieved best log-scale R² of **0.695**. Key finding: location is the dominant price driver.
 
----
-
-### 🌐 &nbsp;Full-Stack
-
-**`Project Name`** &nbsp;·&nbsp; [repo](#) [live](#)
-> What does the app do and who uses it?
-
-`FastAPI` `PostgreSQL` `JavaScript`
+`Python` `XGBoost` `LightGBM` `scikit-learn` `Pandas` `Seaborn`
 
 </td>
 </tr>
@@ -156,8 +152,8 @@ Building things that outlast the hype.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clydeew&theme=tokyonight" width="32%"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clydeew&theme=tokyonight" width="32%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="30%"/>
 
 </div>
 
@@ -171,5 +167,9 @@ Building things that outlast the hype.
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Clydeew&color=a78bfa&style=flat-square&label=visitors)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
