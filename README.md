@@ -1,107 +1,191 @@
+<!--
+  ╔═══════════════════════════════════════════════╗
+  ║   Hi there! You found the source.             ║
+  ║   Respect for reading the raw markdown. 👾    ║
+  ╚═══════════════════════════════════════════════╝
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey,%20I'm%20Clyde.&fontSize=52&fontAlignY=38&desc=I%20build%20systems%20that%20think.&descAlignY=58&descSize=20&fontColor=ffffff"/>
+
+<br/>
+
+<table border="0" align="center">
+<tr>
+<td width="55%" valign="top">
+
+### 🧬 The Blueprint
+
+```
+Name    →  Ahmad Dzaki Hakiim
+Alias   →  Clyde
+Origin  →  Indonesia 🇮🇩
+Class   →  Informatics Engineering
+Domain  →  Where ML meets Backend
+```
+
+I don't just train models —  
+I think about **why** they should exist,  
+**how** they'll be served,  
+and **what** breaks when they scale.
+
+From schema design to loss curves,  
+I care about the whole stack.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">⚡ What I'm Building Towards</h2>
+
 <div align="center">
 
-# Ahmad Dzaki Hakiim Fadhlurrohman
-
-**Informatics Engineering Student · Machine Learning · Backend Development**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clydeew)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmaddzaki195@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.ahmad_dzhf/)
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖  LLMs & Prompt Engineering                            │
+│       RAG pipelines · Agent workflows · Fine-tuning        │
+│                                                             │
+│   🎮  Reinforcement Learning                               │
+│       Policy gradients · Q-learning · Env design          │
+│                                                             │
+│   ⚙️   MLOps                                               │
+│       Model serving · Experiment tracking · ML CI/CD       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## About Me
+<h2 align="center">🛠️ The Arsenal</h2>
 
-I'm **Clyde** — an Informatics Engineering student based in Indonesia with a strong interest in building intelligent, production-ready systems. My work sits at the intersection of **machine learning**, **backend engineering**, and **data** — from designing efficient APIs and databases to training and deploying models that solve real problems.
+<div align="center">
 
-I value clean architecture, reproducible experiments, and software that's built to last. Currently deepening my expertise in LLMs, Reinforcement Learning, and MLOps.
+**Languages I speak fluently**
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f0e68c)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
-## Currently Exploring
+**Frameworks & Infra**
 
-| Area | Focus |
-|------|-------|
-| 🤖 **LLMs & Prompt Engineering** | Fine-tuning, RAG pipelines, agent workflows |
-| 🎮 **Reinforcement Learning** | Policy gradients, Q-learning, environment design |
-| ⚙️ **MLOps** | Model serving, experiment tracking, ML CI/CD |
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
----
+**ML / DL Stack**
 
-## Technical Skills
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### Frameworks & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Machine Learning & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-## Projects
+<h2 align="center">📂 Selected Work</h2>
 
-> Fill in your own project names, descriptions, and links below.
+> *Replace placeholders with your real projects — these are the cards you hand to the world.*
+
+<table border="0" align="center" width="100%">
+<tr>
+
+<td width="33%" valign="top" align="center">
 
 ### 🧠 ML / AI
+---
+**`[Project Name]`**
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **Project Name** | Brief description of what it does and the problem it solves | Python · PyTorch · FastAPI | [Repo](#) · [Demo](#) |
-| **Project Name** | Brief description of what it does and the problem it solves | Python · scikit-learn · Flask | [Repo](#) · [Report](#) |
+> What problem does it solve? What makes it interesting?
 
-### 📊 Data Science / Analysis
+`Python` `PyTorch` `FastAPI`
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **Project Name** | Brief description of the analysis and key insight | Pandas · Seaborn · Jupyter | [Repo](#) · [Notebook](#) |
+[→ View Repo](#) · [→ Live Demo](#)
 
-### 🌐 Full-Stack Applications
+---
+**`[Project Name]`**
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **Project Name** | Brief description of the app and its core features | FastAPI · PostgreSQL · JavaScript | [Repo](#) · [Live](#) |
+> One-liner on the model, dataset, or result that matters.
+
+`scikit-learn` `Pandas` `Flask`
+
+[→ View Repo](#) · [→ Report](#)
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 📊 Data Science
+---
+**`[Project Name]`**
+
+> What insight did the data reveal? What decisions does it inform?
+
+`Pandas` `Seaborn` `Jupyter`
+
+[→ View Repo](#) · [→ Notebook](#)
+
+---
+**`[Project Name]`**
+
+> Describe the dataset, the method, the finding.
+
+`NumPy` `Matplotlib` `SciPy`
+
+[→ View Repo](#) · [→ Dashboard](#)
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🌐 Full-Stack
+---
+**`[Project Name]`**
+
+> What does the app do? Who uses it?
+
+`FastAPI` `PostgreSQL` `JavaScript`
+
+[→ View Repo](#) · [→ Live](#)
+
+---
+**`[Project Name]`**
+
+> What's the standout feature or the hardest problem you solved?
+
+`Flask` `MongoDB` `HTML/CSS`
+
+[→ View Repo](#) · [→ Live](#)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&theme=default&hide_border=true&title_color=0A66C2)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Clydeew&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Clydeew&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
 
 </div>
 
@@ -109,8 +193,16 @@ I value clean architecture, reproducible experiments, and software that's built 
 
 <div align="center">
 
-*Designing efficient systems · Training models that generalize · Shipping things that work.*
+**Let's connect and build something worth talking about.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Clydeew&color=0A66C2&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmad-dzaki-hakiim-fadhlurrohman-72b9a0269/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ahmaddzaki195@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/c.ahmad_dzhf/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Clydeew&color=58a6ff&style=flat-square&label=Visitors)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
