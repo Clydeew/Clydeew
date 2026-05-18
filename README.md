@@ -42,7 +42,7 @@ Building things that outlast the hype.
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Clydeew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clydeew&theme=tokyonight" width="100%"/>
 
 </td>
 </tr>
@@ -153,7 +153,9 @@ Building things that outlast the hype.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clydeew&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clydeew&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clydeew&theme=tokyonight" width="32%"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Clydeew&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 
