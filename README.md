@@ -43,7 +43,7 @@ served, and doesn't fall over at scale.
 Building things that outlast the hype.
 
 </td>
-<td width="48%" valign="top" align="center">
+<td valign="center" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clydeew&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clydeew&theme=tokyonight" width="32%"/>
 </td>
