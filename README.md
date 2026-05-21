@@ -162,8 +162,8 @@ Building things that outlast the hype.
 
 <div align="center">
 
-*I design the architecture. Train the model. Ship the system.*
-*Then I do it better the next time.*
+*Design the architecture. Train the model. Ship the system.*
+*Then Iterate*
 
 <br/>
 
