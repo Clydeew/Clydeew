@@ -1,0 +1,73 @@
+<svg width="100%" viewBox="0 0 900 416" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Clyde profile card</title><desc>Identity, current focus, and core stack in one terminal-style card</desc>
+<rect x="30" y="20" width="840" height="376" fill="#0d0c18" stroke="#332f52" stroke-width="1"/>
+<rect x="30" y="20" width="840" height="30" fill="#1a1730" />
+<circle cx="48" cy="35.0" r="5" fill="#e05cc0"/>
+<circle cx="66" cy="35.0" r="5" fill="#fbbf24"/>
+<circle cx="84" cy="35.0" r="5" fill="#34d399"/>
+<text x="450.0" y="39.0" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#8b85b0" text-anchor="middle" letter-spacing="0">clyde@indonesia:~$ ./about.sh</text>
+<text x="60" y="74" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#A78BFA" text-anchor="start" letter-spacing="2">IDENTITY</text>
+<line x1="60" y1="82" x2="420" y2="82" stroke="#2a2645" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="60" y="104" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#34d399" text-anchor="start" letter-spacing="0">name:</text>
+<text x="150" y="104" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">Ahmad Dzaki Hakiim</text>
+<text x="60" y="124" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#34d399" text-anchor="start" letter-spacing="0">alias:</text>
+<text x="150" y="124" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">Clyde</text>
+<text x="60" y="144" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#34d399" text-anchor="start" letter-spacing="0">location:</text>
+<text x="150" y="144" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">Indonesia ᴵᴰ</text>
+<text x="60" y="164" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#34d399" text-anchor="start" letter-spacing="0">studying:</text>
+<text x="150" y="164" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">Informatics Engineering</text>
+<text x="60" y="184" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#34d399" text-anchor="start" letter-spacing="0">obsessed:</text>
+<text x="150" y="184" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">machine learning</text>
+<text x="150" y="204" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">backend systems</text>
+<text x="150" y="224" font-family="Courier New, monospace" font-size="13" font-weight="400" fill="#e5e0ff" text-anchor="start" letter-spacing="0">things that actually work</text>
+<text x="490" y="74" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#A78BFA" text-anchor="start" letter-spacing="2">CURRENTLY EXPLORING</text>
+<line x1="490" y1="82" x2="840" y2="82" stroke="#2a2645" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="490" y="93" width="8" height="8" fill="#38bdf8" />
+<text x="506" y="104" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#e5e0ff" text-anchor="start" letter-spacing="0">LLMs &amp; prompt engineering</text>
+<text x="506" y="121" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#8b85b0" text-anchor="start" letter-spacing="0">RAG pipelines · agent workflows · fine-tuning</text>
+<rect x="490" y="137" width="8" height="8" fill="#e05cc0" />
+<text x="506" y="148" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#e5e0ff" text-anchor="start" letter-spacing="0">Reinforcement learning</text>
+<text x="506" y="165" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#8b85b0" text-anchor="start" letter-spacing="0">policy gradients · Q-learning · broken envs</text>
+<rect x="490" y="181" width="8" height="8" fill="#fbbf24" />
+<text x="506" y="192" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#e5e0ff" text-anchor="start" letter-spacing="0">MLOps</text>
+<text x="506" y="209" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#8b85b0" text-anchor="start" letter-spacing="0">model serving · experiment tracking · ML CI/CD</text>
+<line x1="60" y1="258" x2="840" y2="258" stroke="#2a2645" stroke-width="1" stroke-dasharray="0"/>
+<text x="60" y="288" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#A78BFA" text-anchor="start" letter-spacing="2">CORE STACK</text>
+<line x1="60" y1="296" x2="840" y2="296" stroke="#2a2645" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="60" y="302" width="69.2" height="26" rx="4" fill="none" stroke="#A78BFA" stroke-width="1"/>
+<circle cx="74" cy="315" r="3" fill="#A78BFA"/>
+<text x="84" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">Python</text>
+<rect x="139.2" y="302" width="76.4" height="26" rx="4" fill="none" stroke="#e05cc0" stroke-width="1"/>
+<circle cx="153.2" cy="315" r="3" fill="#e05cc0"/>
+<text x="163.2" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">PyTorch</text>
+<rect x="225.6" y="302" width="98.0" height="26" rx="4" fill="none" stroke="#fbbf24" stroke-width="1"/>
+<circle cx="239.6" cy="315" r="3" fill="#fbbf24"/>
+<text x="249.6" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">TensorFlow</text>
+<rect x="333.6" y="302" width="76.4" height="26" rx="4" fill="none" stroke="#34d399" stroke-width="1"/>
+<circle cx="347.6" cy="315" r="3" fill="#34d399"/>
+<text x="357.6" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">FastAPI</text>
+<rect x="420.0" y="302" width="98.0" height="26" rx="4" fill="none" stroke="#38bdf8" stroke-width="1"/>
+<circle cx="434.0" cy="315" r="3" fill="#38bdf8"/>
+<text x="444.0" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">PostgreSQL</text>
+<rect x="528.0" y="302" width="105.2" height="26" rx="4" fill="none" stroke="#fbbf24" stroke-width="1"/>
+<circle cx="542.0" cy="315" r="3" fill="#fbbf24"/>
+<text x="552.0" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">HuggingFace</text>
+<rect x="643.2" y="302" width="112.4" height="26" rx="4" fill="none" stroke="#e05cc0" stroke-width="1"/>
+<circle cx="657.2" cy="315" r="3" fill="#e05cc0"/>
+<text x="667.2" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">scikit-learn</text>
+<rect x="765.6" y="302" width="40.4" height="26" rx="4" fill="none" stroke="#34d399" stroke-width="1"/>
+<circle cx="779.6" cy="315" r="3" fill="#34d399"/>
+<text x="789.6" y="320" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">Go</text>
+<rect x="60" y="338" width="76.4" height="26" rx="4" fill="none" stroke="#34d399" stroke-width="1"/>
+<circle cx="74" cy="351" r="3" fill="#34d399"/>
+<text x="84" y="356" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">MongoDB</text>
+<rect x="146.4" y="338" width="54.8" height="26" rx="4" fill="none" stroke="#e05cc0" stroke-width="1"/>
+<circle cx="160.4" cy="351" r="3" fill="#e05cc0"/>
+<text x="170.4" y="356" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">Java</text>
+<rect x="211.2" y="338" width="47.6" height="26" rx="4" fill="none" stroke="#fbbf24" stroke-width="1"/>
+<circle cx="225.2" cy="351" r="3" fill="#fbbf24"/>
+<text x="235.2" y="356" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">Git</text>
+<rect x="268.8" y="338" width="47.6" height="26" rx="4" fill="none" stroke="#38bdf8" stroke-width="1"/>
+<circle cx="282.8" cy="351" r="3" fill="#38bdf8"/>
+<text x="292.8" y="356" font-family="Courier New, monospace" font-size="12" font-weight="400" fill="#c9c3e8" text-anchor="start" letter-spacing="0">SQL</text>
+</svg>
