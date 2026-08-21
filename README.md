@@ -98,7 +98,7 @@
 <div align="center">
 
 <!-- Works straight off this URL — no GitHub Action or extra branch needed. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clydeew&theme=react-dark&bg_color=0d0c18&color=A78BFA&line=A78BFA&point=e05cc0&area=true&hide_border=true&title_color=e5e0ff" width="100%" alt="Clyde's contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clydeew&theme=react-dark&bg_color=0d0c18&color=A78BFA&line=A78BFA&point=e05cc0&area=true&hide_border=true&title_color=e5e0ff" width="50%" alt="Clyde's contribution activity graph"/>
 
 </div>
 
@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="50%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </div>
 
 <div align="center">
