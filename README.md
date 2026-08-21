@@ -7,7 +7,7 @@
   Swap the src below to your repo's raw path once pushed, e.g.:
   https://raw.githubusercontent.com/Clydeew/Clydeew/main/assets/pixel-banner.svg
 -->
-<img src="pixel-banner.svg" width="100%" alt="Clyde pixel art banner with contact info"/>
+<img src="assets/pixel-banner.svg" width="100%" alt="Clyde pixel art banner with contact info"/>
 
 <br/><br/>
 
@@ -42,7 +42,7 @@
   Single consolidated card — identity, current focus, and stack.
   Committed at: assets/profile-card.svg
 -->
-<img src="profile-card.svg" width="100%" alt="Clyde profile card: identity, currently exploring, and core stack"/>
+<img src="assets/profile-card.svg" width="100%" alt="Clyde profile card: identity, currently exploring, and core stack"/>
 
 </div>
 
@@ -127,7 +127,3 @@ $ echo "design the architecture. train the model. ship the system. then iterate.
 ![Visitors](https://komarev.com/ghpvc/?username=Clydeew&color=a78bfa&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
